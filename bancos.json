@@ -1,0 +1,1958 @@
+[
+  {
+    "COMPE": "001",
+    "ISPB": "00000000",
+    "LongName": "Banco do Brasil S.A.",
+    "ShortName": "BCO DO BRASIL S.A."
+  },
+  {
+    "COMPE": "003",
+    "ISPB": "04902979",
+    "LongName": "Banco da Amazônia S.A.",
+    "ShortName": "BCO DA AMAZONIA S.A."
+  },
+  {
+    "COMPE": "004",
+    "ISPB": "07237373",
+    "LongName": "Banco do Nordeste do Brasil S.A.",
+    "ShortName": "BCO DO NORDESTE DO BRASIL S.A."
+  },
+  {
+    "COMPE": "007",
+    "ISPB": "33657248",
+    "LongName": "BANCO NACIONAL DE DESENVOLVIMENTO ECONOMICO E SOCIAL",
+    "ShortName": "BNDES"
+  },
+  {
+    "COMPE": "010",
+    "ISPB": "81723108",
+    "LongName": "CREDICOAMO CREDITO RURAL COOPERATIVA",
+    "ShortName": "CREDICOAMO"
+  },
+  {
+    "COMPE": "011",
+    "ISPB": "61809182",
+    "LongName": "CREDIT SUISSE HEDGING-GRIFFO CORRETORA DE VALORES S.A",
+    "ShortName": "C.SUISSE HEDGING-GRIFFO CV S/A"
+  },
+  {
+    "COMPE": "012",
+    "ISPB": "04866275",
+    "LongName": "Banco Inbursa S.A.",
+    "ShortName": "BANCO INBURSA"
+  },
+  {
+    "COMPE": "014",
+    "ISPB": "09274232",
+    "LongName": "STATE STREET BRASIL S.A. - BANCO COMERCIAL",
+    "ShortName": "STATE STREET BR S.A. BCO COMERCIAL"
+  },
+  {
+    "COMPE": "015",
+    "ISPB": "02819125",
+    "LongName": "UBS Brasil Corretora de Câmbio, Títulos e Valores Mobiliários S.A.",
+    "ShortName": "UBS BRASIL CCTVM S.A."
+  },
+  {
+    "COMPE": "016",
+    "ISPB": "04715685",
+    "LongName": "COOPERATIVA DE CRÉDITO MÚTUO DOS DESPACHANTES DE TRÂNSITO DE SANTA CATARINA E RI",
+    "ShortName": "CCM DESP TRÂNS SC E RS"
+  },
+  {
+    "COMPE": "017",
+    "ISPB": "42272526",
+    "LongName": "BNY Mellon Banco S.A.",
+    "ShortName": "BNY MELLON BCO S.A."
+  },
+  {
+    "COMPE": "018",
+    "ISPB": "57839805",
+    "LongName": "Banco Tricury S.A.",
+    "ShortName": "BCO TRICURY S.A."
+  },
+  {
+    "COMPE": "021",
+    "ISPB": "28127603",
+    "LongName": "BANESTES S.A. Banco do Estado do Espírito Santo",
+    "ShortName": "BCO BANESTES S.A."
+  },
+  {
+    "COMPE": "024",
+    "ISPB": "10866788",
+    "LongName": "Banco Bandepe S.A.",
+    "ShortName": "BCO BANDEPE S.A."
+  },
+  {
+    "COMPE": "025",
+    "ISPB": "03323840",
+    "LongName": "Banco Alfa S.A.",
+    "ShortName": "BCO ALFA S.A."
+  },
+  {
+    "COMPE": "029",
+    "ISPB": "33885724",
+    "LongName": "Banco Itaú Consignado S.A.",
+    "ShortName": "BANCO ITAÚ CONSIGNADO S.A."
+  },
+  {
+    "COMPE": "033",
+    "ISPB": "90400888",
+    "LongName": "BANCO SANTANDER (BRASIL) S.A.",
+    "ShortName": "BCO SANTANDER (BRASIL) S.A."
+  },
+  {
+    "COMPE": "036",
+    "ISPB": "06271464",
+    "LongName": "Banco Bradesco BBI S.A.",
+    "ShortName": "BCO BBI S.A."
+  },
+  {
+    "COMPE": "037",
+    "ISPB": "04913711",
+    "LongName": "Banco do Estado do Pará S.A.",
+    "ShortName": "BCO DO EST. DO PA S.A."
+  },
+  {
+    "COMPE": "040",
+    "ISPB": "03609817",
+    "LongName": "Banco Cargill S.A.",
+    "ShortName": "BCO CARGILL S.A."
+  },
+  {
+    "COMPE": "041",
+    "ISPB": "92702067",
+    "LongName": "Banco do Estado do Rio Grande do Sul S.A.",
+    "ShortName": "BCO DO ESTADO DO RS S.A."
+  },
+  {
+    "COMPE": "047",
+    "ISPB": "13009717",
+    "LongName": "Banco do Estado de Sergipe S.A.",
+    "ShortName": "BCO DO EST. DE SE S.A."
+  },
+  {
+    "COMPE": "060",
+    "ISPB": "04913129",
+    "LongName": "Confidence Corretora de Câmbio S.A.",
+    "ShortName": "CONFIDENCE CC S.A."
+  },
+  {
+    "COMPE": "062",
+    "ISPB": "03012230",
+    "LongName": "Hipercard Banco Múltiplo S.A.",
+    "ShortName": "HIPERCARD BM S.A."
+  },
+  {
+    "COMPE": "063",
+    "ISPB": "04184779",
+    "LongName": "Banco Bradescard S.A.",
+    "ShortName": "BANCO BRADESCARD"
+  },
+  {
+    "COMPE": "064",
+    "ISPB": "04332281",
+    "LongName": "Goldman Sachs do Brasil Banco Múltiplo S.A.",
+    "ShortName": "GOLDMAN SACHS DO BRASIL BM S.A"
+  },
+  {
+    "COMPE": "065",
+    "ISPB": "48795256",
+    "LongName": "Banco AndBank (Brasil) S.A.",
+    "ShortName": "BCO ANDBANK S.A."
+  },
+  {
+    "COMPE": "066",
+    "ISPB": "02801938",
+    "LongName": "BANCO MORGAN STANLEY S.A.",
+    "ShortName": "BCO MORGAN STANLEY S.A."
+  },
+  {
+    "COMPE": "069",
+    "ISPB": "61033106",
+    "LongName": "Banco Crefisa S.A.",
+    "ShortName": "BCO CREFISA S.A."
+  },
+  {
+    "COMPE": "070",
+    "ISPB": "00000208",
+    "LongName": "BRB - Banco de Brasília S.A.",
+    "ShortName": "BRB - BCO DE BRASILIA S.A."
+  },
+  {
+    "COMPE": "074",
+    "ISPB": "03017677",
+    "LongName": "Banco J. Safra S.A.",
+    "ShortName": "BCO. J.SAFRA S.A."
+  },
+  {
+    "COMPE": "075",
+    "ISPB": "03532415",
+    "LongName": "Banco ABN Amro S.A.",
+    "ShortName": "BCO ABN AMRO S.A."
+  },
+  {
+    "COMPE": "076",
+    "ISPB": "07656500",
+    "LongName": "Banco KDB do Brasil S.A.",
+    "ShortName": "BCO KDB BRASIL S.A."
+  },
+  {
+    "COMPE": "077",
+    "ISPB": "00416968",
+    "LongName": "Banco Inter S.A.",
+    "ShortName": "BANCO INTER"
+  },
+  {
+    "COMPE": "078",
+    "ISPB": "34111187",
+    "LongName": "Haitong Banco de Investimento do Brasil S.A.",
+    "ShortName": "HAITONG BI DO BRASIL S.A."
+  },
+  {
+    "COMPE": "079",
+    "ISPB": "09516419",
+    "LongName": "PICPAY BANK - BANCO MÚLTIPLO S.A",
+    "ShortName": "PICPAY BANK - BANCO MÚLTIPLO S.A"
+  },
+  {
+    "COMPE": "080",
+    "ISPB": "73622748",
+    "LongName": "B&T CORRETORA DE CAMBIO LTDA.",
+    "ShortName": "B&T CC LTDA."
+  },
+  {
+    "COMPE": "081",
+    "ISPB": "10264663",
+    "LongName": "BancoSeguro S.A.",
+    "ShortName": "BANCOSEGURO S.A."
+  },
+  {
+    "COMPE": "082",
+    "ISPB": "07679404",
+    "LongName": "BANCO TOPÁZIO S.A.",
+    "ShortName": "BANCO TOPÁZIO S.A."
+  },
+  {
+    "COMPE": "083",
+    "ISPB": "10690848",
+    "LongName": "Banco da China Brasil S.A.",
+    "ShortName": "BCO DA CHINA BRASIL S.A."
+  },
+  {
+    "COMPE": "084",
+    "ISPB": "02398976",
+    "LongName": "UNIPRIME DO BRASIL - COOPERATIVA DE CRÉDITO",
+    "ShortName": "UNIPRIME DO BRASIL - COOP"
+  },
+  {
+    "COMPE": "085",
+    "ISPB": "05463212",
+    "LongName": "Cooperativa Central de Crédito - Ailos",
+    "ShortName": "COOPCENTRAL AILOS"
+  },
+  {
+    "COMPE": "088",
+    "ISPB": "11476673",
+    "LongName": "BANCO RANDON S.A.",
+    "ShortName": "BANCO RANDON S.A."
+  },
+  {
+    "COMPE": "089",
+    "ISPB": "62109566",
+    "LongName": "CREDISAN COOPERATIVA DE CRÉDITO",
+    "ShortName": "CREDISAN CC"
+  },
+  {
+    "COMPE": "091",
+    "ISPB": "01634601",
+    "LongName": "CENTRAL DE COOPERATIVAS DE ECONOMIA E CRÉDITO MÚTUO DO ESTADO DO RIO GRANDE DO S",
+    "ShortName": "CCCM UNICRED CENTRAL RS"
+  },
+  {
+    "COMPE": "092",
+    "ISPB": "12865507",
+    "LongName": "BRK S.A. Crédito, Financiamento e Investimento",
+    "ShortName": "BRK S.A. CFI"
+  },
+  {
+    "COMPE": "093",
+    "ISPB": "07945233",
+    "LongName": "PÓLOCRED   SOCIEDADE DE CRÉDITO AO MICROEMPREENDEDOR E À EMPRESA DE PEQUENO PORT",
+    "ShortName": "POLOCRED SCMEPP LTDA."
+  },
+  {
+    "COMPE": "094",
+    "ISPB": "11758741",
+    "LongName": "Banco Finaxis S.A.",
+    "ShortName": "BANCO FINAXIS"
+  },
+  {
+    "COMPE": "095",
+    "ISPB": "11703662",
+    "LongName": "Travelex Banco de Câmbio S.A.",
+    "ShortName": "TRAVELEX BANCO DE CÂMBIO S.A."
+  },
+  {
+    "COMPE": "096",
+    "ISPB": "00997185",
+    "LongName": "Banco B3 S.A.",
+    "ShortName": "BCO B3 S.A."
+  },
+  {
+    "COMPE": "097",
+    "ISPB": "04632856",
+    "LongName": "Credisis - Central de Cooperativas de Crédito Ltda.",
+    "ShortName": "CREDISIS CENTRAL DE COOPERATIVAS DE CRÉDITO LTDA."
+  },
+  {
+    "COMPE": "098",
+    "ISPB": "78157146",
+    "LongName": "Credialiança Cooperativa de Crédito Rural",
+    "ShortName": "CREDIALIANÇA CCR"
+  },
+  {
+    "COMPE": "099",
+    "ISPB": "03046391",
+    "LongName": "UNIPRIME CENTRAL - CENTRAL NACIONAL DE COOPERATIVA DE CRÉDITO LTDA.",
+    "ShortName": "UNIPRIME COOPCENTRAL LTDA."
+  },
+  {
+    "COMPE": "100",
+    "ISPB": "00806535",
+    "LongName": "Planner Corretora de Valores S.A.",
+    "ShortName": "PLANNER CV S.A."
+  },
+  {
+    "COMPE": "101",
+    "ISPB": "62287735",
+    "LongName": "RENASCENCA DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA",
+    "ShortName": "RENASCENCA DTVM LTDA"
+  },
+  {
+    "COMPE": "102",
+    "ISPB": "02332886",
+    "LongName": "XP INVESTIMENTOS CORRETORA DE CÂMBIO,TÍTULOS E VALORES MOBILIÁRIOS S/A",
+    "ShortName": "XP INVESTIMENTOS CCTVM S/A"
+  },
+  {
+    "COMPE": "104",
+    "ISPB": "00360305",
+    "LongName": "Caixa Econômica Federal",
+    "ShortName": "CAIXA ECONOMICA FEDERAL"
+  },
+  {
+    "COMPE": "105",
+    "ISPB": "07652226",
+    "LongName": "Lecca Crédito, Financiamento e Investimento S/A",
+    "ShortName": "LECCA CFI S.A."
+  },
+  {
+    "COMPE": "107",
+    "ISPB": "15114366",
+    "LongName": "Banco Bocom BBM S.A.",
+    "ShortName": "BCO BOCOM BBM S.A."
+  },
+  {
+    "COMPE": "108",
+    "ISPB": "01800019",
+    "LongName": "PORTOCRED S.A. - CREDITO, FINANCIAMENTO E INVESTIMENTO",
+    "ShortName": "PORTOCRED S.A. - CFI"
+  },
+  {
+    "COMPE": "111",
+    "ISPB": "36113876",
+    "LongName": "OLIVEIRA TRUST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIARIOS S.A.",
+    "ShortName": "OLIVEIRA TRUST DTVM S.A."
+  },
+  {
+    "COMPE": "113",
+    "ISPB": "61723847",
+    "LongName": "NEON CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
+    "ShortName": "NEON CTVM S.A."
+  },
+  {
+    "COMPE": "114",
+    "ISPB": "05790149",
+    "LongName": "Central Cooperativa de Crédito no Estado do Espírito Santo - CECOOP",
+    "ShortName": "CENTRAL COOPERATIVA DE CRÉDITO NO ESTADO DO ESPÍRITO SANTO"
+  },
+  {
+    "COMPE": "117",
+    "ISPB": "92856905",
+    "LongName": "ADVANCED CORRETORA DE CÂMBIO LTDA",
+    "ShortName": "ADVANCED CC LTDA"
+  },
+  {
+    "COMPE": "119",
+    "ISPB": "13720915",
+    "LongName": "Banco Western Union do Brasil S.A.",
+    "ShortName": "BCO WESTERN UNION"
+  },
+  {
+    "COMPE": "120",
+    "ISPB": "33603457",
+    "LongName": "BANCO RODOBENS S.A.",
+    "ShortName": "BCO RODOBENS S.A."
+  },
+  {
+    "COMPE": "121",
+    "ISPB": "10664513",
+    "LongName": "Banco Agibank S.A.",
+    "ShortName": "BCO AGIBANK S.A."
+  },
+  {
+    "COMPE": "122",
+    "ISPB": "33147315",
+    "LongName": "Banco Bradesco BERJ S.A.",
+    "ShortName": "BCO BRADESCO BERJ S.A."
+  },
+  {
+    "COMPE": "124",
+    "ISPB": "15357060",
+    "LongName": "Banco Woori Bank do Brasil S.A.",
+    "ShortName": "BCO WOORI BANK DO BRASIL S.A."
+  },
+  {
+    "COMPE": "125",
+    "ISPB": "45246410",
+    "LongName": "BANCO GENIAL S.A.",
+    "ShortName": "BANCO GENIAL"
+  },
+  {
+    "COMPE": "126",
+    "ISPB": "13220493",
+    "LongName": "BR Partners Banco de Investimento S.A.",
+    "ShortName": "BR PARTNERS BI"
+  },
+  {
+    "COMPE": "127",
+    "ISPB": "09512542",
+    "LongName": "Codepe Corretora de Valores e Câmbio S.A.",
+    "ShortName": "CODEPE CVC S.A."
+  },
+  {
+    "COMPE": "128",
+    "ISPB": "19307785",
+    "LongName": "MS Bank S.A. Banco de Câmbio",
+    "ShortName": "MS BANK S.A. BCO DE CÂMBIO"
+  },
+  {
+    "COMPE": "129",
+    "ISPB": "18520834",
+    "LongName": "UBS Brasil Banco de Investimento S.A.",
+    "ShortName": "UBS BRASIL BI S.A."
+  },
+  {
+    "COMPE": "130",
+    "ISPB": "09313766",
+    "LongName": "CARUANA S.A. - SOCIEDADE DE CRÉDITO, FINANCIAMENTO E INVESTIMENTO",
+    "ShortName": "CARUANA SCFI"
+  },
+  {
+    "COMPE": "131",
+    "ISPB": "61747085",
+    "LongName": "TULLETT PREBON BRASIL CORRETORA DE VALORES E CÂMBIO LTDA",
+    "ShortName": "TULLETT PREBON BRASIL CVC LTDA"
+  },
+  {
+    "COMPE": "132",
+    "ISPB": "17453575",
+    "LongName": "ICBC do Brasil Banco Múltiplo S.A.",
+    "ShortName": "ICBC DO BRASIL BM S.A."
+  },
+  {
+    "COMPE": "133",
+    "ISPB": "10398952",
+    "LongName": "CONFEDERAÇÃO NACIONAL DAS COOPERATIVAS CENTRAIS DE CRÉDITO E ECONOMIA FAMILIAR E",
+    "ShortName": "CRESOL CONFEDERAÇÃO"
+  },
+  {
+    "COMPE": "134",
+    "ISPB": "33862244",
+    "LongName": "BGC LIQUIDEZ DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA",
+    "ShortName": "BGC LIQUIDEZ DTVM LTDA"
+  },
+  {
+    "COMPE": "136",
+    "ISPB": "00315557",
+    "LongName": "CONFEDERAÇÃO NACIONAL DAS COOPERATIVAS CENTRAIS UNICRED LTDA. - UNICRED DO BRASI",
+    "ShortName": "CONF NAC COOP CENTRAIS UNICRED"
+  },
+  {
+    "COMPE": "138",
+    "ISPB": "10853017",
+    "LongName": "Get Money Corretora de Câmbio S.A.",
+    "ShortName": "GET MONEY CC LTDA"
+  },
+  {
+    "COMPE": "139",
+    "ISPB": "55230916",
+    "LongName": "Intesa Sanpaolo Brasil S.A. - Banco Múltiplo",
+    "ShortName": "INTESA SANPAOLO BRASIL S.A. BM"
+  },
+  {
+    "COMPE": "140",
+    "ISPB": "62169875",
+    "LongName": "NU INVEST CORRETORA DE VALORES S.A.",
+    "ShortName": "NU INVEST CORRETORA DE VALORES S.A."
+  },
+  {
+    "COMPE": "142",
+    "ISPB": "16944141",
+    "LongName": "Broker Brasil Corretora de Câmbio Ltda.",
+    "ShortName": "BROKER BRASIL CC LTDA."
+  },
+  {
+    "COMPE": "143",
+    "ISPB": "02992317",
+    "LongName": "Treviso Corretora de Câmbio S.A.",
+    "ShortName": "TREVISO CC S.A."
+  },
+  {
+    "COMPE": "144",
+    "ISPB": "13059145",
+    "LongName": "BEXS BANCO DE CÂMBIO S/A",
+    "ShortName": "BEXS BCO DE CAMBIO S.A."
+  },
+  {
+    "COMPE": "145",
+    "ISPB": "50579044",
+    "LongName": "LEVYCAM - CORRETORA DE CAMBIO E VALORES LTDA.",
+    "ShortName": "LEVYCAM CCV LTDA"
+  },
+  {
+    "COMPE": "146",
+    "ISPB": "24074692",
+    "LongName": "GUITTA CORRETORA DE CAMBIO LTDA.",
+    "ShortName": "GUITTA CC LTDA"
+  },
+  {
+    "COMPE": "149",
+    "ISPB": "15581638",
+    "LongName": "Facta Financeira S.A. - Crédito Financiamento e Investimento",
+    "ShortName": "FACTA S.A. CFI"
+  },
+  {
+    "COMPE": "157",
+    "ISPB": "09105360",
+    "LongName": "ICAP do Brasil Corretora de Títulos e Valores Mobiliários Ltda.",
+    "ShortName": "ICAP DO BRASIL CTVM LTDA."
+  },
+  {
+    "COMPE": "159",
+    "ISPB": "05442029",
+    "LongName": "Casa do Crédito S.A. Sociedade de Crédito ao Microempreendedor",
+    "ShortName": "CASA CREDITO S.A. SCM"
+  },
+  {
+    "COMPE": "163",
+    "ISPB": "23522214",
+    "LongName": "Commerzbank Brasil S.A. - Banco Múltiplo",
+    "ShortName": "COMMERZBANK BRASIL S.A. - BCO MÚLTIPLO"
+  },
+  {
+    "COMPE": "173",
+    "ISPB": "13486793",
+    "LongName": "BRL Trust Distribuidora de Títulos e Valores Mobiliários S.A.",
+    "ShortName": "BRL TRUST DTVM SA"
+  },
+  {
+    "COMPE": "174",
+    "ISPB": "43180355",
+    "LongName": "PEFISA S.A. - CRÉDITO, FINANCIAMENTO E INVESTIMENTO",
+    "ShortName": "PEFISA S.A. - C.F.I."
+  },
+  {
+    "COMPE": "177",
+    "ISPB": "65913436",
+    "LongName": "Guide Investimentos S.A. Corretora de Valores",
+    "ShortName": "GUIDE"
+  },
+  {
+    "COMPE": "180",
+    "ISPB": "02685483",
+    "LongName": "CM CAPITAL MARKETS CORRETORA DE CÂMBIO, TÍTULOS E VALORES MOBILIÁRIOS LTDA",
+    "ShortName": "CM CAPITAL MARKETS CCTVM LTDA"
+  },
+  {
+    "COMPE": "183",
+    "ISPB": "09210106",
+    "LongName": "SOCRED S.A. - SOCIEDADE DE CRÉDITO AO MICROEMPREENDEDOR E À EMPRESA DE PEQUENO P",
+    "ShortName": "SOCRED SA - SCMEPP"
+  },
+  {
+    "COMPE": "184",
+    "ISPB": "17298092",
+    "LongName": "Banco Itaú BBA S.A.",
+    "ShortName": "BCO ITAÚ BBA S.A."
+  },
+  {
+    "COMPE": "188",
+    "ISPB": "33775974",
+    "LongName": "ATIVA INVESTIMENTOS S.A. CORRETORA DE TÍTULOS, CÂMBIO E VALORES",
+    "ShortName": "ATIVA S.A. INVESTIMENTOS CCTVM"
+  },
+  {
+    "COMPE": "189",
+    "ISPB": "07512441",
+    "LongName": "HS FINANCEIRA S/A CREDITO, FINANCIAMENTO E INVESTIMENTOS",
+    "ShortName": "HS FINANCEIRA"
+  },
+  {
+    "COMPE": "190",
+    "ISPB": "03973814",
+    "LongName": "SERVICOOP - COOPERATIVA DE CRÉDITO DOS SERVIDORES PÚBLICOS ESTADUAIS E MUNICIPAI",
+    "ShortName": "SERVICOOP"
+  },
+  {
+    "COMPE": "191",
+    "ISPB": "04257795",
+    "LongName": "Nova Futura Corretora de Títulos e Valores Mobiliários Ltda.",
+    "ShortName": "NOVA FUTURA CTVM LTDA."
+  },
+  {
+    "COMPE": "194",
+    "ISPB": "20155248",
+    "LongName": "PARMETAL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA",
+    "ShortName": "PARMETAL DTVM LTDA"
+  },
+  {
+    "COMPE": "195",
+    "ISPB": "07799277",
+    "LongName": "VALOR SOCIEDADE DE CRÉDITO DIRETO S.A.",
+    "ShortName": "VALOR SCD S.A."
+  },
+  {
+    "COMPE": "196",
+    "ISPB": "32648370",
+    "LongName": "FAIR CORRETORA DE CAMBIO S.A.",
+    "ShortName": "FAIR CC S.A."
+  },
+  {
+    "COMPE": "197",
+    "ISPB": "16501555",
+    "LongName": "STONE INSTITUIÇÃO DE PAGAMENTO S.A.",
+    "ShortName": "STONE IP S.A."
+  },
+  {
+    "COMPE": "208",
+    "ISPB": "30306294",
+    "LongName": "Banco BTG Pactual S.A.",
+    "ShortName": "BANCO BTG PACTUAL S.A."
+  },
+  {
+    "COMPE": "212",
+    "ISPB": "92894922",
+    "LongName": "Banco Original S.A.",
+    "ShortName": "BANCO ORIGINAL"
+  },
+  {
+    "COMPE": "213",
+    "ISPB": "54403563",
+    "LongName": "Banco Arbi S.A.",
+    "ShortName": "BCO ARBI S.A."
+  },
+  {
+    "COMPE": "217",
+    "ISPB": "91884981",
+    "LongName": "Banco John Deere S.A.",
+    "ShortName": "BANCO JOHN DEERE S.A."
+  },
+  {
+    "COMPE": "218",
+    "ISPB": "71027866",
+    "LongName": "Banco BS2 S.A.",
+    "ShortName": "BCO BS2 S.A."
+  },
+  {
+    "COMPE": "222",
+    "ISPB": "75647891",
+    "LongName": "BANCO CRÉDIT AGRICOLE BRASIL S.A.",
+    "ShortName": "BCO CRÉDIT AGRICOLE BR S.A."
+  },
+  {
+    "COMPE": "224",
+    "ISPB": "58616418",
+    "LongName": "Banco Fibra S.A.",
+    "ShortName": "BCO FIBRA S.A."
+  },
+  {
+    "COMPE": "233",
+    "ISPB": "62421979",
+    "LongName": "Banco Cifra S.A.",
+    "ShortName": "BANCO CIFRA"
+  },
+  {
+    "COMPE": "237",
+    "ISPB": "60746948",
+    "LongName": "Banco Bradesco S.A.",
+    "ShortName": "BCO BRADESCO S.A."
+  },
+  {
+    "COMPE": "241",
+    "ISPB": "31597552",
+    "LongName": "BANCO CLASSICO S.A.",
+    "ShortName": "BCO CLASSICO S.A."
+  },
+  {
+    "COMPE": "243",
+    "ISPB": "33923798",
+    "LongName": "BANCO MASTER S/A",
+    "ShortName": "BANCO MASTER"
+  },
+  {
+    "COMPE": "246",
+    "ISPB": "28195667",
+    "LongName": "Banco ABC Brasil S.A.",
+    "ShortName": "BCO ABC BRASIL S.A."
+  },
+  {
+    "COMPE": "249",
+    "ISPB": "61182408",
+    "LongName": "Banco Investcred Unibanco S.A.",
+    "ShortName": "BANCO INVESTCRED UNIBANCO S.A."
+  },
+  {
+    "COMPE": "250",
+    "ISPB": "50585090",
+    "LongName": "BCV - BANCO DE CRÉDITO E VAREJO S.A.",
+    "ShortName": "\"BCV - BCO, CRÉDITO E VAREJO S.A.\""
+  },
+  {
+    "COMPE": "253",
+    "ISPB": "52937216",
+    "LongName": "Bexs Corretora de Câmbio S/A",
+    "ShortName": "BEXS CC S.A."
+  },
+  {
+    "COMPE": "254",
+    "ISPB": "14388334",
+    "LongName": "PARANÁ BANCO S.A.",
+    "ShortName": "PARANA BCO S.A."
+  },
+  {
+    "COMPE": "259",
+    "ISPB": "08609934",
+    "LongName": "MONEYCORP BANCO DE CÂMBIO S.A.",
+    "ShortName": "MONEYCORP BCO DE CÂMBIO S.A."
+  },
+  {
+    "COMPE": "260",
+    "ISPB": "18236120",
+    "LongName": "NU PAGAMENTOS S.A. - INSTITUIÇÃO DE PAGAMENTO",
+    "ShortName": "NU PAGAMENTOS - IP"
+  },
+  {
+    "COMPE": "265",
+    "ISPB": "33644196",
+    "LongName": "Banco Fator S.A.",
+    "ShortName": "BCO FATOR S.A."
+  },
+  {
+    "COMPE": "266",
+    "ISPB": "33132044",
+    "LongName": "BANCO CEDULA S.A.",
+    "ShortName": "BCO CEDULA S.A."
+  },
+  {
+    "COMPE": "268",
+    "ISPB": "14511781",
+    "LongName": "BARI COMPANHIA HIPOTECÁRIA",
+    "ShortName": "BARI CIA HIPOTECÁRIA"
+  },
+  {
+    "COMPE": "269",
+    "ISPB": "53518684",
+    "LongName": "BANCO HSBC S.A.",
+    "ShortName": "BCO HSBC S.A."
+  },
+  {
+    "COMPE": "270",
+    "ISPB": "61444949",
+    "LongName": "SAGITUR CORRETORA DE CÂMBIO S.A.",
+    "ShortName": "SAGITUR CC"
+  },
+  {
+    "COMPE": "271",
+    "ISPB": "27842177",
+    "LongName": "IB Corretora de Câmbio, Títulos e Valores Mobiliários S.A.",
+    "ShortName": "IB CCTVM S.A."
+  },
+  {
+    "COMPE": "272",
+    "ISPB": "00250699",
+    "LongName": "AGK CORRETORA DE CAMBIO S.A.",
+    "ShortName": "AGK CC S.A."
+  },
+  {
+    "COMPE": "273",
+    "ISPB": "08253539",
+    "LongName": "Cooperativa de Crédito Rural de São Miguel do Oeste - Sulcredi/São Miguel",
+    "ShortName": "CCR DE SÃO MIGUEL DO OESTE"
+  },
+  {
+    "COMPE": "274",
+    "ISPB": "11581339",
+    "LongName": "MONEY PLUS SOCIEDADE DE CRÉDITO AO MICROEMPREENDEDOR E A EMPRESA DE PEQUENO PORT",
+    "ShortName": "MONEY PLUS SCMEPP LTDA"
+  },
+  {
+    "COMPE": "276",
+    "ISPB": "11970623",
+    "LongName": "BANCO SENFF S.A.",
+    "ShortName": "BCO SENFF S.A."
+  },
+  {
+    "COMPE": "278",
+    "ISPB": "27652684",
+    "LongName": "Genial Investimentos Corretora de Valores Mobiliários S.A.",
+    "ShortName": "GENIAL INVESTIMENTOS CVM S.A."
+  },
+  {
+    "COMPE": "279",
+    "ISPB": "26563270",
+    "LongName": "COOPERATIVA DE CREDITO RURAL DE PRIMAVERA DO LESTE",
+    "ShortName": "CCR DE PRIMAVERA DO LESTE"
+  },
+  {
+    "COMPE": "280",
+    "ISPB": "23862762",
+    "LongName": "WILL FINANCEIRA S.A. CRÉDITO, FINANCIAMENTO E INVESTIMENTO",
+    "ShortName": "WILL FINANCEIRA S.A.CFI"
+  },
+  {
+    "COMPE": "281",
+    "ISPB": "76461557",
+    "LongName": "Cooperativa de Crédito Rural Coopavel",
+    "ShortName": "CCR COOPAVEL"
+  },
+  {
+    "COMPE": "283",
+    "ISPB": "89960090",
+    "LongName": "RB INVESTIMENTOS DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LIMITADA",
+    "ShortName": "RB INVESTIMENTOS DTVM LTDA."
+  },
+  {
+    "COMPE": "285",
+    "ISPB": "71677850",
+    "LongName": "Frente Corretora de Câmbio Ltda.",
+    "ShortName": "FRENTE CC LTDA."
+  },
+  {
+    "COMPE": "286",
+    "ISPB": "07853842",
+    "LongName": "COOPERATIVA DE CRÉDITO RURAL DE OURO   SULCREDI/OURO",
+    "ShortName": "CCR DE OURO"
+  },
+  {
+    "COMPE": "288",
+    "ISPB": "62237649",
+    "LongName": "CAROL DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
+    "ShortName": "CAROL DTVM LTDA."
+  },
+  {
+    "COMPE": "289",
+    "ISPB": "94968518",
+    "LongName": "EFX CORRETORA DE CÂMBIO LTDA.",
+    "ShortName": "EFX CC LTDA."
+  },
+  {
+    "COMPE": "290",
+    "ISPB": "08561701",
+    "LongName": "PAGSEGURO INTERNET INSTITUIÇÃO DE PAGAMENTO S.A.",
+    "ShortName": "PAGSEGURO INTERNET IP S.A."
+  },
+  {
+    "COMPE": "292",
+    "ISPB": "28650236",
+    "LongName": "BS2 Distribuidora de Títulos e Valores Mobiliários S.A.",
+    "ShortName": "BS2 DTVM S.A."
+  },
+  {
+    "COMPE": "293",
+    "ISPB": "71590442",
+    "LongName": "Lastro RDV Distribuidora de Títulos e Valores Mobiliários Ltda.",
+    "ShortName": "LASTRO RDV DTVM LTDA"
+  },
+  {
+    "COMPE": "296",
+    "ISPB": "04062902",
+    "LongName": "OZ CORRETORA DE CÂMBIO S.A.",
+    "ShortName": "OZ CORRETORA DE CÂMBIO S.A."
+  },
+  {
+    "COMPE": "298",
+    "ISPB": "17772370",
+    "LongName": "Vip's Corretora de Câmbio Ltda.",
+    "ShortName": "VIPS CC LTDA."
+  },
+  {
+    "COMPE": "299",
+    "ISPB": "04814563",
+    "LongName": "BANCO SOROCRED S.A. - BANCO MÚLTIPLO",
+    "ShortName": "BCO SOROCRED S.A. - BM"
+  },
+  {
+    "COMPE": "300",
+    "ISPB": "33042151",
+    "LongName": "Banco de la Nacion Argentina",
+    "ShortName": "BCO LA NACION ARGENTINA"
+  },
+  {
+    "COMPE": "301",
+    "ISPB": "13370835",
+    "LongName": "BPP Instituição de Pagamento S.A.",
+    "ShortName": "BPP IP S.A."
+  },
+  {
+    "COMPE": "306",
+    "ISPB": "40303299",
+    "LongName": "PORTOPAR DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
+    "ShortName": "PORTOPAR DTVM LTDA"
+  },
+  {
+    "COMPE": "307",
+    "ISPB": "03751794",
+    "LongName": "Terra Investimentos Distribuidora de Títulos e Valores Mobiliários Ltda.",
+    "ShortName": "TERRA INVESTIMENTOS DTVM"
+  },
+  {
+    "COMPE": "309",
+    "ISPB": "14190547",
+    "LongName": "CAMBIONET CORRETORA DE CÂMBIO LTDA.",
+    "ShortName": "CAMBIONET CC LTDA"
+  },
+  {
+    "COMPE": "310",
+    "ISPB": "22610500",
+    "LongName": "VORTX DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
+    "ShortName": "VORTX DTVM LTDA."
+  },
+  {
+    "COMPE": "311",
+    "ISPB": "76641497",
+    "LongName": "DOURADA CORRETORA DE CÂMBIO LTDA.",
+    "ShortName": "DOURADA CORRETORA"
+  },
+  {
+    "COMPE": "312",
+    "ISPB": "07693858",
+    "LongName": "HSCM - SOCIEDADE DE CRÉDITO AO MICROEMPREENDEDOR E À EMPRESA DE PEQUENO PORTE LT",
+    "ShortName": "HSCM SCMEPP LTDA."
+  },
+  {
+    "COMPE": "313",
+    "ISPB": "16927221",
+    "LongName": "AMAZÔNIA CORRETORA DE CÂMBIO LTDA.",
+    "ShortName": "AMAZÔNIA CC LTDA."
+  },
+  {
+    "COMPE": "315",
+    "ISPB": "03502968",
+    "LongName": "PI Distribuidora de Títulos e Valores Mobiliários S.A.",
+    "ShortName": "PI DTVM S.A."
+  },
+  {
+    "COMPE": "318",
+    "ISPB": "61186680",
+    "LongName": "Banco BMG S.A.",
+    "ShortName": "BCO BMG S.A."
+  },
+  {
+    "COMPE": "319",
+    "ISPB": "11495073",
+    "LongName": "OM DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA",
+    "ShortName": "OM DTVM LTDA"
+  },
+  {
+    "COMPE": "320",
+    "ISPB": "07450604",
+    "LongName": "China Construction Bank (Brasil) Banco Múltiplo S/A",
+    "ShortName": "BCO CCB BRASIL S.A."
+  },
+  {
+    "COMPE": "321",
+    "ISPB": "18188384",
+    "LongName": "CREFAZ SOCIEDADE DE CRÉDITO AO MICROEMPREENDEDOR E A EMPRESA DE PEQUENO PORTE LT",
+    "ShortName": "CREFAZ SCMEPP LTDA"
+  },
+  {
+    "COMPE": "322",
+    "ISPB": "01073966",
+    "LongName": "Cooperativa de Crédito Rural de Abelardo Luz - Sulcredi/Crediluz",
+    "ShortName": "CCR DE ABELARDO LUZ"
+  },
+  {
+    "COMPE": "323",
+    "ISPB": "10573521",
+    "LongName": "MERCADO PAGO INSTITUIÇÃO DE PAGAMENTO LTDA.",
+    "ShortName": "MERCADO PAGO IP LTDA."
+  },
+  {
+    "COMPE": "324",
+    "ISPB": "21332862",
+    "LongName": "CARTOS SOCIEDADE DE CRÉDITO DIRETO S.A.",
+    "ShortName": "CARTOS SCD S.A."
+  },
+  {
+    "COMPE": "325",
+    "ISPB": "13293225",
+    "LongName": "Órama Distribuidora de Títulos e Valores Mobiliários S.A.",
+    "ShortName": "ÓRAMA DTVM S.A."
+  },
+  {
+    "COMPE": "326",
+    "ISPB": "03311443",
+    "LongName": "PARATI - CREDITO, FINANCIAMENTO E INVESTIMENTO S.A.",
+    "ShortName": "PARATI - CFI S.A."
+  },
+  {
+    "COMPE": "328",
+    "ISPB": "05841967",
+    "LongName": "COOPERATIVA DE ECONOMIA E CRÉDITO MÚTUO DOS FABRICANTES DE CALÇADOS DE SAPIRANGA",
+    "ShortName": "CECM FABRIC CALÇADOS SAPIRANGA"
+  },
+  {
+    "COMPE": "329",
+    "ISPB": "32402502",
+    "LongName": "QI Sociedade de Crédito Direto S.A.",
+    "ShortName": "QI SCD S.A."
+  },
+  {
+    "COMPE": "330",
+    "ISPB": "00556603",
+    "LongName": "BANCO BARI DE INVESTIMENTOS E FINANCIAMENTOS S.A.",
+    "ShortName": "BANCO BARI S.A."
+  },
+  {
+    "COMPE": "331",
+    "ISPB": "13673855",
+    "LongName": "Fram Capital Distribuidora de Títulos e Valores Mobiliários S.A.",
+    "ShortName": "FRAM CAPITAL DTVM S.A."
+  },
+  {
+    "COMPE": "332",
+    "ISPB": "13140088",
+    "LongName": "Acesso Soluções de Pagamento S.A.",
+    "ShortName": "ACESSO SOLUCOES PAGAMENTO SA"
+  },
+  {
+    "COMPE": "335",
+    "ISPB": "27098060",
+    "LongName": "Banco Digio S.A.",
+    "ShortName": "BANCO DIGIO"
+  },
+  {
+    "COMPE": "336",
+    "ISPB": "31872495",
+    "LongName": "Banco C6 S.A.",
+    "ShortName": "BCO C6 S.A."
+  },
+  {
+    "COMPE": "340",
+    "ISPB": "09554480",
+    "LongName": "SUPERDIGITAL INSTITUIÇÃO DE PAGAMENTO S.A.",
+    "ShortName": "SUPERDIGITAL I.P. S.A."
+  },
+  {
+    "COMPE": "341",
+    "ISPB": "60701190",
+    "LongName": "ITAÚ UNIBANCO S.A.",
+    "ShortName": "ITAÚ UNIBANCO S.A."
+  },
+  {
+    "COMPE": "342",
+    "ISPB": "32997490",
+    "LongName": "Creditas Sociedade de Crédito Direto S.A.",
+    "ShortName": "CREDITAS SCD"
+  },
+  {
+    "COMPE": "343",
+    "ISPB": "24537861",
+    "LongName": "FFA SOCIEDADE DE CRÉDITO AO MICROEMPREENDEDOR E À EMPRESA DE PEQUENO PORTE LTDA.",
+    "ShortName": "FFA SCMEPP LTDA."
+  },
+  {
+    "COMPE": "348",
+    "ISPB": "33264668",
+    "LongName": "Banco XP S.A.",
+    "ShortName": "BCO XP S.A."
+  },
+  {
+    "COMPE": "349",
+    "ISPB": "27214112",
+    "LongName": "AL5 S.A. CRÉDITO, FINANCIAMENTO E INVESTIMENTO",
+    "ShortName": "AL5 S.A. CFI"
+  },
+  {
+    "COMPE": "350",
+    "ISPB": "01330387",
+    "LongName": "COOPERATIVA DE CRÉDITO RURAL DE PEQUENOS AGRICULTORES E DA REFORMA AGRÁRIA DO CE",
+    "ShortName": "CREHNOR LARANJEIRAS"
+  },
+  {
+    "COMPE": "352",
+    "ISPB": "29162769",
+    "LongName": "TORO CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
+    "ShortName": "TORO CTVM S.A."
+  },
+  {
+    "COMPE": "354",
+    "ISPB": "52904364",
+    "LongName": "NECTON INVESTIMENTOS  S.A. CORRETORA DE VALORES MOBILIÁRIOS E COMMODITIES",
+    "ShortName": "NECTON INVESTIMENTOS S.A CVM"
+  },
+  {
+    "COMPE": "355",
+    "ISPB": "34335592",
+    "LongName": "ÓTIMO SOCIEDADE DE CRÉDITO DIRETO S.A.",
+    "ShortName": "ÓTIMO SCD S.A."
+  },
+  {
+    "COMPE": "358",
+    "ISPB": "09464032",
+    "LongName": "MIDWAY S.A. - CRÉDITO, FINANCIAMENTO E INVESTIMENTO",
+    "ShortName": "MIDWAY S.A. - SCFI"
+  },
+  {
+    "COMPE": "359",
+    "ISPB": "05351887",
+    "LongName": "ZEMA CRÉDITO, FINANCIAMENTO E INVESTIMENTO S/A",
+    "ShortName": "ZEMA CFI S/A"
+  },
+  {
+    "COMPE": "360",
+    "ISPB": "02276653",
+    "LongName": "TRINUS CAPITAL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
+    "ShortName": "TRINUS CAPITAL DTVM"
+  },
+  {
+    "COMPE": "362",
+    "ISPB": "01027058",
+    "LongName": "CIELO S.A.",
+    "ShortName": "CIELO S.A."
+  },
+  {
+    "COMPE": "363",
+    "ISPB": "62285390",
+    "LongName": "SINGULARE CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
+    "ShortName": "SINGULARE CTVM S.A."
+  },
+  {
+    "COMPE": "364",
+    "ISPB": "09089356",
+    "LongName": "GERENCIANET S.A.",
+    "ShortName": "GERENCIANET"
+  },
+  {
+    "COMPE": "365",
+    "ISPB": "68757681",
+    "LongName": "SIMPAUL CORRETORA DE CAMBIO E VALORES MOBILIARIOS  S.A.",
+    "ShortName": "SIMPAUL"
+  },
+  {
+    "COMPE": "366",
+    "ISPB": "61533584",
+    "LongName": "BANCO SOCIETE GENERALE BRASIL S.A.",
+    "ShortName": "BCO SOCIETE GENERALE BRASIL"
+  },
+  {
+    "COMPE": "367",
+    "ISPB": "34711571",
+    "LongName": "VITREO DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
+    "ShortName": "VITREO DTVM S.A."
+  },
+  {
+    "COMPE": "368",
+    "ISPB": "08357240",
+    "LongName": "Banco CSF S.A.",
+    "ShortName": "BCO CSF S.A."
+  },
+  {
+    "COMPE": "370",
+    "ISPB": "61088183",
+    "LongName": "Banco Mizuho do Brasil S.A.",
+    "ShortName": "BCO MIZUHO S.A."
+  },
+  {
+    "COMPE": "371",
+    "ISPB": "92875780",
+    "LongName": "WARREN CORRETORA DE VALORES MOBILIÁRIOS E CÂMBIO LTDA.",
+    "ShortName": "WARREN CVMC LTDA"
+  },
+  {
+    "COMPE": "373",
+    "ISPB": "35977097",
+    "LongName": "UP.P SOCIEDADE DE EMPRÉSTIMO ENTRE PESSOAS S.A.",
+    "ShortName": "UP.P SEP S.A."
+  },
+  {
+    "COMPE": "374",
+    "ISPB": "27351731",
+    "LongName": "REALIZE CRÉDITO, FINANCIAMENTO E INVESTIMENTO S.A.",
+    "ShortName": "REALIZE CFI S.A."
+  },
+  {
+    "COMPE": "376",
+    "ISPB": "33172537",
+    "LongName": "BANCO J.P. MORGAN S.A.",
+    "ShortName": "BCO J.P. MORGAN S.A."
+  },
+  {
+    "COMPE": "377",
+    "ISPB": "17826860",
+    "LongName": "BMS SOCIEDADE DE CRÉDITO DIRETO S.A.",
+    "ShortName": "BMS SCD S.A."
+  },
+  {
+    "COMPE": "378",
+    "ISPB": "01852137",
+    "LongName": "BANCO BRASILEIRO DE CRÉDITO SOCIEDADE ANÔNIMA",
+    "ShortName": "BCO BRASILEIRO DE CRÉDITO S.A."
+  },
+  {
+    "COMPE": "379",
+    "ISPB": "01658426",
+    "LongName": "COOPERFORTE - COOPERATIVA DE ECONOMIA E CRÉDITO MÚTUO DE FUNCIONÁRIOS DE INSTITU",
+    "ShortName": "CECM COOPERFORTE"
+  },
+  {
+    "COMPE": "380",
+    "ISPB": "22896431",
+    "LongName": "PICPAY INSTITUIçãO DE PAGAMENTO S.A.",
+    "ShortName": "PICPAY"
+  },
+  {
+    "COMPE": "381",
+    "ISPB": "60814191",
+    "LongName": "BANCO MERCEDES-BENZ DO BRASIL S.A.",
+    "ShortName": "BCO MERCEDES-BENZ S.A."
+  },
+  {
+    "COMPE": "382",
+    "ISPB": "04307598",
+    "LongName": "FIDÚCIA SOCIEDADE DE CRÉDITO AO MICROEMPREENDEDOR E À EMPRESA DE PEQUENO PORTE L",
+    "ShortName": "FIDUCIA SCMEPP LTDA"
+  },
+  {
+    "COMPE": "383",
+    "ISPB": "21018182",
+    "LongName": "EBANX INSTITUICAO DE PAGAMENTOS LTDA.",
+    "ShortName": "EBANX IP LTDA."
+  },
+  {
+    "COMPE": "384",
+    "ISPB": "11165756",
+    "LongName": "GLOBAL FINANÇAS SOCIEDADE DE CRÉDITO AO MICROEMPREENDEDOR E À EMPRESA DE PEQUENO",
+    "ShortName": "GLOBAL SCM LTDA"
+  },
+  {
+    "COMPE": "385",
+    "ISPB": "03844699",
+    "LongName": "COOPERATIVA DE ECONOMIA E CREDITO MUTUO DOS TRABALHADORES PORTUARIOS DA GRANDE V",
+    "ShortName": "CECM DOS TRAB.PORT. DA G.VITOR"
+  },
+  {
+    "COMPE": "386",
+    "ISPB": "30680829",
+    "LongName": "NU FINANCEIRA S.A. - Sociedade de Crédito, Financiamento e Investimento",
+    "ShortName": "NU FINANCEIRA S.A. CFI"
+  },
+  {
+    "COMPE": "387",
+    "ISPB": "03215790",
+    "LongName": "Banco Toyota do Brasil S.A.",
+    "ShortName": "BCO TOYOTA DO BRASIL S.A."
+  },
+  {
+    "COMPE": "389",
+    "ISPB": "17184037",
+    "LongName": "Banco Mercantil do Brasil S.A.",
+    "ShortName": "BCO MERCANTIL DO BRASIL S.A."
+  },
+  {
+    "COMPE": "390",
+    "ISPB": "59274605",
+    "LongName": "BANCO GM S.A.",
+    "ShortName": "BCO GM S.A."
+  },
+  {
+    "COMPE": "391",
+    "ISPB": "08240446",
+    "LongName": "COOPERATIVA DE CREDITO RURAL DE IBIAM - SULCREDI/IBIAM",
+    "ShortName": "CCR DE IBIAM"
+  },
+  {
+    "COMPE": "393",
+    "ISPB": "59109165",
+    "LongName": "Banco Volkswagen S.A.",
+    "ShortName": "BCO VOLKSWAGEN S.A"
+  },
+  {
+    "COMPE": "394",
+    "ISPB": "07207996",
+    "LongName": "Banco Bradesco Financiamentos S.A.",
+    "ShortName": "BCO BRADESCO FINANC. S.A."
+  },
+  {
+    "COMPE": "395",
+    "ISPB": "08673569",
+    "LongName": "F.D'GOLD - DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
+    "ShortName": "F D GOLD DTVM LTDA"
+  },
+  {
+    "COMPE": "396",
+    "ISPB": "13884775",
+    "LongName": "HUB PAGAMENTOS S.A",
+    "ShortName": "HUB PAGAMENTOS"
+  },
+  {
+    "COMPE": "397",
+    "ISPB": "34088029",
+    "LongName": "LISTO SOCIEDADE DE CREDITO DIRETO S.A.",
+    "ShortName": "LISTO SCD S.A."
+  },
+  {
+    "COMPE": "398",
+    "ISPB": "31749596",
+    "LongName": "IDEAL CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
+    "ShortName": "IDEAL CTVM S.A."
+  },
+  {
+    "COMPE": "399",
+    "ISPB": "01701201",
+    "LongName": "Kirton Bank S.A. - Banco Múltiplo",
+    "ShortName": "KIRTON BANK"
+  },
+  {
+    "COMPE": "400",
+    "ISPB": "05491616",
+    "LongName": "COOPERATIVA DE CRÉDITO, POUPANÇA E SERVIÇOS FINANCEIROS DO CENTRO OESTE - CREDIT",
+    "ShortName": "COOP CREDITAG"
+  },
+  {
+    "COMPE": "401",
+    "ISPB": "15111975",
+    "LongName": "IUGU INSTITUIÇÃO DE PAGAMENTO S.A.",
+    "ShortName": "IUGU IP S.A."
+  },
+  {
+    "COMPE": "402",
+    "ISPB": "36947229",
+    "LongName": "COBUCCIO SOCIEDADE DE CRÉDITO DIRETO S.A.",
+    "ShortName": "COBUCCIO SCD S.A."
+  },
+  {
+    "COMPE": "403",
+    "ISPB": "37880206",
+    "LongName": "CORA SOCIEDADE DE CRÉDITO DIRETO S.A.",
+    "ShortName": "CORA SCD S.A."
+  },
+  {
+    "COMPE": "404",
+    "ISPB": "37241230",
+    "LongName": "SUMUP SOCIEDADE DE CRÉDITO DIRETO S.A.",
+    "ShortName": "SUMUP SCD S.A."
+  },
+  {
+    "COMPE": "406",
+    "ISPB": "37715993",
+    "LongName": "ACCREDITO - SOCIEDADE DE CRÉDITO DIRETO S.A.",
+    "ShortName": "ACCREDITO SCD S.A."
+  },
+  {
+    "COMPE": "407",
+    "ISPB": "00329598",
+    "LongName": "ÍNDIGO INVESTIMENTOS DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
+    "ShortName": "ÍNDIGO INVESTIMENTOS DTVM LTDA."
+  },
+  {
+    "COMPE": "408",
+    "ISPB": "36586946",
+    "LongName": "BONUSPAGO SOCIEDADE DE CRÉDITO DIRETO S.A.",
+    "ShortName": "BONUSPAGO SCD S.A."
+  },
+  {
+    "COMPE": "410",
+    "ISPB": "05684234",
+    "LongName": "PLANNER SOCIEDADE DE CRÉDITO AO MICROEMPREENDEDOR S.A.",
+    "ShortName": "PLANNER SCM S.A."
+  },
+  {
+    "COMPE": "411",
+    "ISPB": "05192316",
+    "LongName": "Via Certa Financiadora S.A. - Crédito, Financiamento e Investimentos",
+    "ShortName": "VIA CERTA FINANCIADORA S.A. - CFI"
+  },
+  {
+    "COMPE": "412",
+    "ISPB": "15173776",
+    "LongName": "SOCIAL BANK BANCO MÚLTIPLO S/A",
+    "ShortName": "SOCIAL BANK S/A"
+  },
+  {
+    "COMPE": "413",
+    "ISPB": "01858774",
+    "LongName": "BANCO BV S.A.",
+    "ShortName": "BCO BV S.A."
+  },
+  {
+    "COMPE": "414",
+    "ISPB": "37526080",
+    "LongName": "WORK SOCIEDADE DE CRÉDITO DIRETO S.A.",
+    "ShortName": "WORK SCD S.A."
+  },
+  {
+    "COMPE": "416",
+    "ISPB": "19324634",
+    "LongName": "LAMARA SOCIEDADE DE CRÉDITO DIRETO S.A.",
+    "ShortName": "LAMARA SCD S.A."
+  },
+  {
+    "COMPE": "418",
+    "ISPB": "37414009",
+    "LongName": "ZIPDIN SOLUÇÕES DIGITAIS SOCIEDADE DE CRÉDITO DIRETO S/A",
+    "ShortName": "ZIPDIN SCD S.A."
+  },
+  {
+    "COMPE": "419",
+    "ISPB": "38129006",
+    "LongName": "NUMBRS SOCIEDADE DE CRÉDITO DIRETO S.A.",
+    "ShortName": "NUMBRS SCD S.A."
+  },
+  {
+    "COMPE": "421",
+    "ISPB": "39343350",
+    "LongName": "LAR COOPERATIVA DE CRÉDITO - LAR CREDI",
+    "ShortName": "CC LAR CREDI"
+  },
+  {
+    "COMPE": "422",
+    "ISPB": "58160789",
+    "LongName": "Banco Safra S.A.",
+    "ShortName": "BCO SAFRA S.A."
+  },
+  {
+    "COMPE": "423",
+    "ISPB": "00460065",
+    "LongName": "COLUNA S/A DISTRIBUIDORA DE TITULOS E VALORES MOBILIÁRIOS",
+    "ShortName": "COLUNA S.A. DTVM"
+  },
+  {
+    "COMPE": "425",
+    "ISPB": "03881423",
+    "LongName": "SOCINAL S.A. - CRÉDITO, FINANCIAMENTO E INVESTIMENTO",
+    "ShortName": "SOCINAL S.A. CFI"
+  },
+  {
+    "COMPE": "426",
+    "ISPB": "11285104",
+    "LongName": "Biorc Financeira - Crédito, Financiamento e Investimento S.A.",
+    "ShortName": "BIORC FINANCEIRA - CFI S.A."
+  },
+  {
+    "COMPE": "427",
+    "ISPB": "27302181",
+    "LongName": "COOPERATIVA DE CREDITO DOS SERVIDORES DA UNIVERSIDADE FEDERAL DO ESPIRITO SANTO",
+    "ShortName": "CRED-UFES"
+  },
+  {
+    "COMPE": "428",
+    "ISPB": "39664698",
+    "LongName": "CREDSYSTEM SOCIEDADE DE CRÉDITO DIRETO S.A.",
+    "ShortName": "CREDSYSTEM SCD S.A."
+  },
+  {
+    "COMPE": "429",
+    "ISPB": "05676026",
+    "LongName": "Crediare S.A. - Crédito, financiamento e investimento",
+    "ShortName": "CREDIARE CFI S.A."
+  },
+  {
+    "COMPE": "430",
+    "ISPB": "00204963",
+    "LongName": "COOPERATIVA DE CREDITO RURAL SEARA - CREDISEARA",
+    "ShortName": "CCR SEARA"
+  },
+  {
+    "COMPE": "433",
+    "ISPB": "44077014",
+    "LongName": "BR-CAPITAL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
+    "ShortName": "BR-CAPITAL DTVM S.A."
+  },
+  {
+    "COMPE": "435",
+    "ISPB": "38224857",
+    "LongName": "DELCRED SOCIEDADE DE CRÉDITO DIRETO S.A.",
+    "ShortName": "DELCRED SCD S.A."
+  },
+  {
+    "COMPE": "438",
+    "ISPB": "67030395",
+    "LongName": "PLANNER TRUSTEE DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
+    "ShortName": "PLANNER TRUSTEE DTVM LTDA"
+  },
+  {
+    "COMPE": "439",
+    "ISPB": "16695922",
+    "LongName": "ID CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
+    "ShortName": "ID CTVM"
+  },
+  {
+    "COMPE": "440",
+    "ISPB": "82096447",
+    "LongName": "CREDIBRF - COOPERATIVA DE CRÉDITO",
+    "ShortName": "CREDIBRF COOP"
+  },
+  {
+    "COMPE": "442",
+    "ISPB": "87963450",
+    "LongName": "MAGNETIS - DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA",
+    "ShortName": "MAGNETIS - DTVM"
+  },
+  {
+    "COMPE": "443",
+    "ISPB": "39416705",
+    "LongName": "CREDIHOME SOCIEDADE DE CRÉDITO DIRETO S.A.",
+    "ShortName": "CREDIHOME SCD"
+  },
+  {
+    "COMPE": "444",
+    "ISPB": "40654622",
+    "LongName": "TRINUS SOCIEDADE DE CRÉDITO DIRETO S.A.",
+    "ShortName": "TRINUS SCD S.A."
+  },
+  {
+    "COMPE": "445",
+    "ISPB": "35551187",
+    "LongName": "PLANTAE S.A. - CRÉDITO, FINANCIAMENTO E INVESTIMENTO",
+    "ShortName": "PLANTAE CFI"
+  },
+  {
+    "COMPE": "447",
+    "ISPB": "12392983",
+    "LongName": "MIRAE ASSET WEALTH MANAGEMENT (BRAZIL) CORRETORA DE CÂMBIO, TÍTULOS E VALORES MO",
+    "ShortName": "MIRAE ASSET CCTVM LTDA"
+  },
+  {
+    "COMPE": "448",
+    "ISPB": "39669186",
+    "LongName": "HEMERA DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
+    "ShortName": "HEMERA DTVM LTDA."
+  },
+  {
+    "COMPE": "449",
+    "ISPB": "37555231",
+    "LongName": "DMCARD SOCIEDADE DE CRÉDITO DIRETO S.A.",
+    "ShortName": "DMCARD SCD S.A."
+  },
+  {
+    "COMPE": "450",
+    "ISPB": "13203354",
+    "LongName": "FITBANK PAGAMENTOS ELETRONICOS S.A.",
+    "ShortName": "FITBANK PAGAMENTOS ELETRONICOS S.A."
+  },
+  {
+    "COMPE": "451",
+    "ISPB": "40475846",
+    "LongName": "J17 - SOCIEDADE DE CRÉDITO DIRETO S/A",
+    "ShortName": "J17 - SCD S/A"
+  },
+  {
+    "COMPE": "452",
+    "ISPB": "39676772",
+    "LongName": "CREDIFIT SOCIEDADE DE CRÉDITO DIRETO S.A.",
+    "ShortName": "CREDIFIT SCD S.A."
+  },
+  {
+    "COMPE": "454",
+    "ISPB": "41592532",
+    "LongName": "MÉRITO DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
+    "ShortName": "MÉRITO DTVM LTDA."
+  },
+  {
+    "COMPE": "456",
+    "ISPB": "60498557",
+    "LongName": "Banco MUFG Brasil S.A.",
+    "ShortName": "BCO MUFG BRASIL S.A."
+  },
+  {
+    "COMPE": "457",
+    "ISPB": "39587424",
+    "LongName": "UY3 SOCIEDADE DE CRÉDITO DIRETO S/A",
+    "ShortName": "UY3 SCD S/A"
+  },
+  {
+    "COMPE": "458",
+    "ISPB": "07253654",
+    "LongName": "HEDGE INVESTMENTS DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
+    "ShortName": "HEDGE INVESTMENTS DTVM LTDA."
+  },
+  {
+    "COMPE": "459",
+    "ISPB": "04546162",
+    "LongName": "COOPERATIVA DE CRÉDITO MÚTUO DE SERVIDORES PÚBLICOS DO ESTADO DE SÃO PAULO - CRE",
+    "ShortName": "CCM SERV. PÚBLICOS SP"
+  },
+  {
+    "COMPE": "460",
+    "ISPB": "42047025",
+    "LongName": "UNAVANTI SOCIEDADE DE CRÉDITO DIRETO S/A",
+    "ShortName": "UNAVANTI SCD S/A"
+  },
+  {
+    "COMPE": "461",
+    "ISPB": "19540550",
+    "LongName": "ASAAS GESTÃO FINANCEIRA INSTITUIÇÃO DE PAGAMENTO S.A.",
+    "ShortName": "ASAAS IP S.A."
+  },
+  {
+    "COMPE": "462",
+    "ISPB": "39908427",
+    "LongName": "STARK SOCIEDADE DE CRÉDITO DIRETO S.A.",
+    "ShortName": "STARK SCD S.A."
+  },
+  {
+    "COMPE": "463",
+    "ISPB": "40434681",
+    "LongName": "AZUMI DISTRIBUIDORA DE TíTULOS E VALORES MOBILIáRIOS LTDA.",
+    "ShortName": "AZUMI DTVM"
+  },
+  {
+    "COMPE": "464",
+    "ISPB": "60518222",
+    "LongName": "Banco Sumitomo Mitsui Brasileiro S.A.",
+    "ShortName": "BCO SUMITOMO MITSUI BRASIL S.A."
+  },
+  {
+    "COMPE": "465",
+    "ISPB": "40083667",
+    "LongName": "CAPITAL CONSIG SOCIEDADE DE CRÉDITO DIRETO S.A.",
+    "ShortName": "CAPITAL CONSIG SCD S.A."
+  },
+  {
+    "COMPE": "467",
+    "ISPB": "33886862",
+    "LongName": "MASTER S/A CORRETORA DE CâMBIO, TíTULOS E VALORES MOBILIáRIOS",
+    "ShortName": "MASTER S/A CCTVM"
+  },
+  {
+    "COMPE": "468",
+    "ISPB": "04862600",
+    "LongName": "PORTOSEG S.A. - CREDITO, FINANCIAMENTO E INVESTIMENTO",
+    "ShortName": "PORTOSEG S.A. CFI"
+  },
+  {
+    "COMPE": "469",
+    "ISPB": "07138049",
+    "LongName": "LIGA INVEST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA",
+    "ShortName": "LIGA INVEST DTVM LTDA."
+  },
+  {
+    "COMPE": "470",
+    "ISPB": "18394228",
+    "LongName": "CDC SOCIEDADE DE CRÉDITO AO MICROEMPREENDEDOR E À EMPRESADE PEQUENO PORTE LTDA.",
+    "ShortName": "CDC SOCIEDADE DE CRÉDITO"
+  },
+  {
+    "COMPE": "471",
+    "ISPB": "04831810",
+    "LongName": "COOPERATIVA DE ECONOMIA E CREDITO MUTUO DOS SERVIDORES PUBLICOS DE PINHÃO - CRES",
+    "ShortName": "CECM SERV PUBL PINHÃO"
+  },
+  {
+    "COMPE": "473",
+    "ISPB": "33466988",
+    "LongName": "Banco Caixa Geral - Brasil S.A.",
+    "ShortName": "BCO CAIXA GERAL BRASIL S.A."
+  },
+  {
+    "COMPE": "477",
+    "ISPB": "33042953",
+    "LongName": "Citibank N.A.",
+    "ShortName": "CITIBANK N.A."
+  },
+  {
+    "COMPE": "478",
+    "ISPB": "11760553",
+    "LongName": "GAZINCRED S.A. SOCIEDADE DE CRÉDITO, FINANCIAMENTO E INVESTIMENTO",
+    "ShortName": "GAZINCRED S.A. SCFI"
+  },
+  {
+    "COMPE": "479",
+    "ISPB": "60394079",
+    "LongName": "Banco ItauBank S.A.",
+    "ShortName": "BCO ITAUBANK S.A."
+  },
+  {
+    "COMPE": "484",
+    "ISPB": "36864992",
+    "LongName": "MAF DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
+    "ShortName": "MAF DTVM SA"
+  },
+  {
+    "COMPE": "487",
+    "ISPB": "62331228",
+    "LongName": "DEUTSCHE BANK S.A. - BANCO ALEMAO",
+    "ShortName": "DEUTSCHE BANK S.A.BCO ALEMAO"
+  },
+  {
+    "COMPE": "488",
+    "ISPB": "46518205",
+    "LongName": "JPMorgan Chase Bank, National Association",
+    "ShortName": "JPMORGAN CHASE BANK"
+  },
+  {
+    "COMPE": "492",
+    "ISPB": "49336860",
+    "LongName": "ING Bank N.V.",
+    "ShortName": "ING BANK N.V."
+  },
+  {
+    "COMPE": "495",
+    "ISPB": "44189447",
+    "LongName": "Banco de La Provincia de Buenos Aires",
+    "ShortName": "BCO LA PROVINCIA B AIRES BCE"
+  },
+  {
+    "COMPE": "505",
+    "ISPB": "32062580",
+    "LongName": "Banco Credit Suisse (Brasil) S.A.",
+    "ShortName": "BCO CREDIT SUISSE S.A."
+  },
+  {
+    "COMPE": "506",
+    "ISPB": "42066258",
+    "LongName": "RJI CORRETORA DE TITULOS E VALORES MOBILIARIOS LTDA",
+    "ShortName": "RJI"
+  },
+  {
+    "COMPE": "508",
+    "ISPB": "61384004",
+    "LongName": "AVENUE SECURITIES DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
+    "ShortName": "AVENUE SECURITIES DTVM LTDA."
+  },
+  {
+    "COMPE": "511",
+    "ISPB": "44683140",
+    "LongName": "MAGNUM SOCIEDADE DE CRÉDITO DIRETO S.A.",
+    "ShortName": "MAGNUM SCD"
+  },
+  {
+    "COMPE": "512",
+    "ISPB": "36266751",
+    "LongName": "CAPTALYS DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
+    "ShortName": "CAPTALYS DTVM LTDA."
+  },
+  {
+    "COMPE": "545",
+    "ISPB": "17352220",
+    "LongName": "SENSO CORRETORA DE CAMBIO E VALORES MOBILIARIOS S.A",
+    "ShortName": "SENSO CCVM S.A."
+  },
+  {
+    "COMPE": "600",
+    "ISPB": "59118133",
+    "LongName": "Banco Luso Brasileiro S.A.",
+    "ShortName": "BCO LUSO BRASILEIRO S.A."
+  },
+  {
+    "COMPE": "604",
+    "ISPB": "31895683",
+    "LongName": "Banco Industrial do Brasil S.A.",
+    "ShortName": "BCO INDUSTRIAL DO BRASIL S.A."
+  },
+  {
+    "COMPE": "610",
+    "ISPB": "78626983",
+    "LongName": "Banco VR S.A.",
+    "ShortName": "BCO VR S.A."
+  },
+  {
+    "COMPE": "611",
+    "ISPB": "61820817",
+    "LongName": "Banco Paulista S.A.",
+    "ShortName": "BCO PAULISTA S.A."
+  },
+  {
+    "COMPE": "612",
+    "ISPB": "31880826",
+    "LongName": "Banco Guanabara S.A.",
+    "ShortName": "BCO GUANABARA S.A."
+  },
+  {
+    "COMPE": "613",
+    "ISPB": "60850229",
+    "LongName": "Omni Banco S.A.",
+    "ShortName": "OMNI BANCO S.A."
+  },
+  {
+    "COMPE": "623",
+    "ISPB": "59285411",
+    "LongName": "Banco Pan S.A.",
+    "ShortName": "BANCO PAN"
+  },
+  {
+    "COMPE": "626",
+    "ISPB": "61348538",
+    "LongName": "BANCO C6 CONSIGNADO S.A.",
+    "ShortName": "BCO C6 CONSIG"
+  },
+  {
+    "COMPE": "630",
+    "ISPB": "58497702",
+    "LongName": "BANCO LETSBANK S.A.",
+    "ShortName": "BCO LETSBANK S.A."
+  },
+  {
+    "COMPE": "633",
+    "ISPB": "68900810",
+    "LongName": "Banco Rendimento S.A.",
+    "ShortName": "BCO RENDIMENTO S.A."
+  },
+  {
+    "COMPE": "634",
+    "ISPB": "17351180",
+    "LongName": "BANCO TRIANGULO S.A.",
+    "ShortName": "BCO TRIANGULO S.A."
+  },
+  {
+    "COMPE": "637",
+    "ISPB": "60889128",
+    "LongName": "BANCO SOFISA S.A.",
+    "ShortName": "BCO SOFISA S.A."
+  },
+  {
+    "COMPE": "643",
+    "ISPB": "62144175",
+    "LongName": "Banco Pine S.A.",
+    "ShortName": "BCO PINE S.A."
+  },
+  {
+    "COMPE": "652",
+    "ISPB": "60872504",
+    "LongName": "Itaú Unibanco Holding S.A.",
+    "ShortName": "ITAÚ UNIBANCO HOLDING S.A."
+  },
+  {
+    "COMPE": "653",
+    "ISPB": "61024352",
+    "LongName": "BANCO VOITER S.A.",
+    "ShortName": "BANCO VOITER"
+  },
+  {
+    "COMPE": "654",
+    "ISPB": "92874270",
+    "LongName": "BANCO DIGIMAIS S.A.",
+    "ShortName": "BCO DIGIMAIS S.A."
+  },
+  {
+    "COMPE": "655",
+    "ISPB": "59588111",
+    "LongName": "Banco Votorantim S.A.",
+    "ShortName": "BCO VOTORANTIM S.A."
+  },
+  {
+    "COMPE": "707",
+    "ISPB": "62232889",
+    "LongName": "Banco Daycoval S.A.",
+    "ShortName": "BCO DAYCOVAL S.A"
+  },
+  {
+    "COMPE": "712",
+    "ISPB": "78632767",
+    "LongName": "Banco Ourinvest S.A.",
+    "ShortName": "BCO OURINVEST S.A."
+  },
+  {
+    "COMPE": "720",
+    "ISPB": "80271455",
+    "LongName": "BANCO RNX S.A.",
+    "ShortName": "BCO RNX S.A."
+  },
+  {
+    "COMPE": "739",
+    "ISPB": "00558456",
+    "LongName": "Banco Cetelem S.A.",
+    "ShortName": "BCO CETELEM S.A."
+  },
+  {
+    "COMPE": "741",
+    "ISPB": "00517645",
+    "LongName": "BANCO RIBEIRAO PRETO S.A.",
+    "ShortName": "BCO RIBEIRAO PRETO S.A."
+  },
+  {
+    "COMPE": "743",
+    "ISPB": "00795423",
+    "LongName": "Banco Semear S.A.",
+    "ShortName": "BANCO SEMEAR"
+  },
+  {
+    "COMPE": "745",
+    "ISPB": "33479023",
+    "LongName": "Banco Citibank S.A.",
+    "ShortName": "BCO CITIBANK S.A."
+  },
+  {
+    "COMPE": "746",
+    "ISPB": "30723886",
+    "LongName": "Banco Modal S.A.",
+    "ShortName": "BCO MODAL S.A."
+  },
+  {
+    "COMPE": "747",
+    "ISPB": "01023570",
+    "LongName": "Banco Rabobank International Brasil S.A.",
+    "ShortName": "BCO RABOBANK INTL BRASIL S.A."
+  },
+  {
+    "COMPE": "748",
+    "ISPB": "01181521",
+    "LongName": "BANCO COOPERATIVO SICREDI S.A.",
+    "ShortName": "BCO COOPERATIVO SICREDI S.A."
+  },
+  {
+    "COMPE": "751",
+    "ISPB": "29030467",
+    "LongName": "Scotiabank Brasil S.A. Banco Múltiplo",
+    "ShortName": "SCOTIABANK BRASIL"
+  },
+  {
+    "COMPE": "752",
+    "ISPB": "01522368",
+    "LongName": "Banco BNP Paribas Brasil S.A.",
+    "ShortName": "BCO BNP PARIBAS BRASIL S A"
+  },
+  {
+    "COMPE": "753",
+    "ISPB": "74828799",
+    "LongName": "Novo Banco Continental S.A. - Banco Múltiplo",
+    "ShortName": "NOVO BCO CONTINENTAL S.A. - BM"
+  },
+  {
+    "COMPE": "754",
+    "ISPB": "76543115",
+    "LongName": "Banco Sistema S.A.",
+    "ShortName": "BANCO SISTEMA"
+  },
+  {
+    "COMPE": "755",
+    "ISPB": "62073200",
+    "LongName": "Bank of America Merrill Lynch Banco Múltiplo S.A.",
+    "ShortName": "BOFA MERRILL LYNCH BM S.A."
+  },
+  {
+    "COMPE": "756",
+    "ISPB": "02038232",
+    "LongName": "BANCO COOPERATIVO SICOOB S.A. - BANCO SICOOB",
+    "ShortName": "BANCO SICOOB S.A."
+  },
+  {
+    "COMPE": "757",
+    "ISPB": "02318507",
+    "LongName": "BANCO KEB HANA DO BRASIL S.A.",
+    "ShortName": "BCO KEB HANA DO BRASIL S.A."
+  }
+]
